@@ -1,10 +1,10 @@
-# Hey there
+# Hey there 👋🏼
 
 ![image](https://github.com/leratok-GIT/leratok-GIT/assets/117907380/547ebc0a-7864-48e0-afd5-9901cbff10cb)
 
 
 ## About me
-I’m a passionate learner and aspiring full-stack developer based in South Africa. My curiosity drives me to explore new technologies, languages, and frameworks. <br>You’ll often find me tinkering with Python, Java, HTML, CSS, and more. When I’m not coding, I’m probably immersed in Visual Studio Code, NetBeans, or Android Studio. Outside of tech, I’m an avid reader, a coffee enthusiast, and a weekend hiker. Let’s build omething awesome together! <br><br>⚡ Fun fact - Did you know that the first computer “bug” was a literal insect? In 1947, Grace Hopper, a pioneering computer scientist, found a 
+I’m Lerato Kgwedi a passionate learner and aspiring full-stack developer based in South Africa. My curiosity drives me to explore new technologies, languages, and frameworks. You’ll often find me tinkering with Python, Java, HTML, CSS, and more using Visual Studio Code, NetBeans, or Android Studio. Outside of tech, I’m an avid reader, a coffee enthusiast, and a weekend hiker. Let’s build something awesome together! <br><br>⚡ Fun fact - Did you know that the first computer “bug” was a literal insect? In 1947, Grace Hopper, a pioneering computer scientist, found a 
 moth trapped in a relay of the Harvard Mark II computer.She humorously noted it as the “first actual case of a bug being found.” Since then, 
 the term “debugging” has become synonymous with fixing software issues. 🐛🖥️
 
@@ -32,6 +32,9 @@ the term “debugging” has become synonymous with fixing software issues. 🐛
 ![](https://github-contributor-stats.vercel.app/api?username=leratok-GIT&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank you❕❕+👍🏽;+Please visit again!+;+I'm+a+Full-Stack+Developer;" />
+</h1>
 
 
